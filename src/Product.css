@@ -15,14 +15,14 @@
 .product__rating {
   display: flex;
 }
-.product > .product__info > img {
+.product > img {
   max-height: 200px;
   width: 100%;
   object-fit: contain;
   margin-bottom: 15px;
 }
 
-.product > .product__info > button {
+.product > button {
   background: #f0c14b;
   border: 1px solid;
   margin-top: 10px;
