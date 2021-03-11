@@ -14,7 +14,9 @@
   },
   "main": "index.js",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "cors": "^2.8.5",
+    "eslint-plugin-babel": "^5.3.1",
     "express": "^4.17.1",
     "firebase-admin": "^9.2.0",
     "firebase-functions": "^3.11.0",
@@ -23,6 +25,7 @@
   "devDependencies": {
     "eslint": "^7.6.0",
     "eslint-config-google": "^0.14.0",
+    "eslint-plugin-promise": "^4.0.1",
     "firebase-functions-test": "^0.2.0"
   },
   "private": true
